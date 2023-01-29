@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: blueviolet;
+}
+.wrapper{
+    width: 450px;
+    background-color: antiquewhite;
+    padding: 70px 40px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    box-shadow: 0 20px 25px rgb(5, 4, 4);
+    border-radius: 8px;
+}
+
